@@ -1,0 +1,3 @@
+[submodule "mysm"]
+	path = mysm
+	url = https://github.com/winlinvip/mysm.git
